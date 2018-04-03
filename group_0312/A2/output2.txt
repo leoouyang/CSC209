@@ -1,0 +1,67 @@
+Script started on Sat 05 Nov 2016 03:33:05 PM DST
+]0;root@JLAI: /mnt/c/Users/Justin/Desktop/csc209/group_0312/A2root@JLAI:/mnt/c/Users/Justin/Desktop/csc209/group_0312/A2# ./categorizer test.t xt
+----------------------------------------------
+Friend recommender system. Find people who are just like you!
+CSC209 fall 2016 team. All rights reserved
+----------------------------------------------
+Please enter your name. Type 'q' to quit
+leooooo
+The length of user name should be between 8 and 128
+Please enter your name. Type 'q' to quit
+leoooooooo
+Tattoos
+y
+Reality TV
+yeaaaaa
+The answer is too long.
+Reality TV
+no
+Justin Bieber
+abc
+The answer is invalid.
+Justin Bieber
+y
+Bill Gates
+n
+Sorry, no users with similar interests joined yet
+----------------------------------------------
+Friend recommender system. Find people who are just like you!
+CSC209 fall 2016 team. All rights reserved
+----------------------------------------------
+Please enter your name. Type 'q' to quit
+q
+Tattoos type:0
+	Reality TV type:0
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				NULL
+				NULL
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				NULL
+				NULL
+	Reality TV type:0
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				leoooooooo, 
+				NULL
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				NULL
+				NULL
+]0;root@JLAI: /mnt/c/Users/Justin/Desktop/csc209/group_0312/A2root@JLAI:/mnt/c/Users/Justin/Desktop/csc209/group_0312/A2# exit
+exit
+
+Script done on Sat 05 Nov 2016 03:33:52 PM DST

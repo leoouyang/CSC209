@@ -1,0 +1,54 @@
+Script started on Fri Nov  4 16:49:12 2016
+b2200-05:~/Desktop/group_0312/A2% ./categorizer test.txt
+----------------------------------------------
+Friend recommender system. Find people who are just like you!
+CSC209 fall 2016 team. All rights reserved
+----------------------------------------------
+Please enter your name. Type 'q' to quit
+A$APROCKY
+User name contains characters that is not alphanumeric.
+Please enter your name. Type 'q' to quit
+abc
+The length of user name should be between 8 and 128
+Please enter your name. Type 'q' to quit
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+The length of user name should be between 8 and 128
+Please enter your name. Type 'q' to quit
+JUSTINLAI
+Tattoos
+q
+Tattoos type:0
+	Reality TV type:0
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				NULL
+				NULL
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				NULL
+				NULL
+	Reality TV type:0
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				NULL
+				NULL
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				NULL
+				NULL
+b2200-05:~/Desktop/group_0312/A2% exit
+exit
+
+Script done on Fri Nov  4 16:50:17 2016

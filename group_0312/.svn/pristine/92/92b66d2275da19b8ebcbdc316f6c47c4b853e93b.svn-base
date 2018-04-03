@@ -1,0 +1,84 @@
+Script started on Sat 05 Nov 2016 03:35:19 PM DST
+]0;root@JLAI: /mnt/c/Users/Justin/Desktop/csc209/group_0312/A2root@JLAI:/mnt/c/Users/Justin/Desktop/csc209/group_0312/A2# ./categorizer test.t xt
+----------------------------------------------
+Friend recommender system. Find people who are just like you!
+CSC209 fall 2016 team. All rights reserved
+----------------------------------------------
+Please enter your name. Type 'q' to quit
+le  JUSTINLAI
+Tattoos
+y
+Reality TV
+y
+Justin Bieber
+y
+Bill Gates
+y
+Sorry, no users with similar interests joined yet
+----------------------------------------------
+Friend recommender system. Find people who are just like you!
+CSC209 fall 2016 team. All rights reserved
+----------------------------------------------
+Please enter your name. Type 'q' to quit
+leooooooo
+Tattoos
+y
+Reality TV
+y
+Justin Bieber
+y
+Bill Gates
+y
+friend recommendations for user leooooooo
+JUSTINLAI
+You have total 1 potential friend(s)!!!
+----------------------------------------------
+Friend recommender system. Find people who are just like you!
+CSC209 fall 2016 team. All rights reserved
+----------------------------------------------
+Please enter your name. Type 'q' to quit
+JUSTINLAI
+friend recommendations for user JUSTINLAI
+leooooooo
+You have total 1 potential friend(s)!!!
+----------------------------------------------
+Friend recommender system. Find people who are just like you!
+CSC209 fall 2016 team. All rights reserved
+----------------------------------------------
+Please enter your name. Type 'q' to quit
+q
+Tattoos type:0
+	Reality TV type:0
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				NULL
+				NULL
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				NULL
+				NULL
+	Reality TV type:0
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				NULL
+				NULL
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				NULL
+				JUSTINLAI, leooooooo, 
+]0;root@JLAI: /mnt/c/Users/Justin/Desktop/csc209/group_0312/A2root@JLAI:/mnt/c/Users/Justin/Desktop/csc209/group_0312/A2# exit
+exit
+
+Script done on Sat 05 Nov 2016 03:36:25 PM DST

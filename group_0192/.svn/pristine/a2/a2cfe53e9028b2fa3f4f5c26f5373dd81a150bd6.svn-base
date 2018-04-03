@@ -1,0 +1,1 @@
+tail -n +2 testinput3.csv|(cat; cat testinput2.csv; cat testinput1.csv)|csv2js >data.js

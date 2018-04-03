@@ -1,0 +1,75 @@
+Script started on Fri Nov  4 17:00:33 2016
+b2200-05:~/Desktop/group_0312/A2% categorizer[K[K[K[K[K[K[K[K[K[K[K./categorizer test,txt[K[K[K[K.txt
+----------------------------------------------
+Friend recommender system. Find people who are just like you!
+CSC209 fall 2016 team. All rights reserved
+----------------------------------------------
+Please enter your name. Type 'q' to quit
+TOMMMMYY
+Tattoos
+y
+Reality TV
+y
+Justin Bieber
+y
+Bill Gates
+y
+Sorry, no users with similar interests joined yet
+----------------------------------------------
+Friend recommender system. Find people who are just like you!
+CSC209 fall 2016 team. All rights reserved
+----------------------------------------------
+Please enter your name. Type 'q' to quit
+JUSTINNNNNNN
+Tattoos
+y
+Reality TV
+y
+Justin Bieber
+y
+Bill Gates
+y
+friend recommendations for user JUSTINNNNNNN
+TOMMMMYY
+You have total 1 potential friend(s)!!!
+----------------------------------------------
+Friend recommender system. Find people who are just like you!
+CSC209 fall 2016 team. All rights reserved
+----------------------------------------------
+Please enter your name. Type 'q' to quit
+q
+Tattoos type:0
+	Reality TV type:0
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				NULL
+				NULL
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				NULL
+				NULL
+	Reality TV type:0
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				NULL
+				NULL
+		Justin Bieber type:0
+			Bill Gates type:1
+				NULL
+				NULL
+			Bill Gates type:1
+				NULL
+				TOMMMMYY, JUSTINNNNNNN, 
+b2200-05:~/Desktop/group_0312/A2% exit
+exit
+
+Script done on Fri Nov  4 17:01:13 2016
